@@ -9,7 +9,7 @@ h1{
 .lala{
     color: crimson;
 }
-section{
+.flexible-container{
     display:flex;
     margin-bottom: 100px;
 }
